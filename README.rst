@@ -66,3 +66,8 @@ License
 -------
 
 swagger-aggregator is licensed under http://opensource.org/licenses/MIT.
+
+
+.. image:: https://badges.gitter.im/Trax-air/swagger-aggregator.svg
+   :alt: Join the chat at https://gitter.im/Trax-air/swagger-aggregator
+   :target: https://gitter.im/Trax-air/swagger-aggregator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
